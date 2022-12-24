@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"Santa",
+			"aj",
+			[
+				25,
+				150,
+				25
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "mane-xmas",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Mane Xmas",
+	"weekName": "Mane Xmas",
+	"freeplayColor": [
+		25,
+		150,
+		25
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
